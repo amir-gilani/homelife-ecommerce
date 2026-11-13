@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: "Vazirmatn", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    scroll-behavior: smooth;
+    background-color: #FCF9F5;
+    color: #242B20;
+  }
+
+  body {
+    overflow-x: hidden;
+    font-feature-settings: "ss01";
+  }
+
+  @media (min-width: 1024px) {
+    html {
+      font-size: 16.75px;
+    }
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

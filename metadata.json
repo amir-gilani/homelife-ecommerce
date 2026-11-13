@@ -1,0 +1,6 @@
+{
+  "name": "هوم‌لایف | فروشگاه دکوراسیون و اکسسوری خانه",
+  "description": "فروشگاه تخصصی مبلمان، روشنایی و اکسسوری‌های دکوراتیو مینیمال برای خلق فضایی گرم و دلنشین در خانه شما.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
